@@ -379,6 +379,10 @@ export class Observatory {
   reset(top = false) {
     const extent = this.extent || 6;
     if (this.mode === "portrait") {
+      this.renderer.domElement.setAttribute(
+        "aria-label",
+        "Artistic 3D comet portrait. Drag to rotate. A reset button restores the initial view.",
+      );
       this.camera.position.set(0.5, 0.3, 18);
       this.controls.target.set(0.5, 0.3, 0);
       this.controls.enableZoom = false;

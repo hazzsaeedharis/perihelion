@@ -83,6 +83,6 @@ NASA and ESA are data sources, not sponsors or endorsers. No NASA/ESA imagery or
 
 ## Validation
 
-Eight native Node tests cover Julian dates, Kepler convergence at high eccentricity, perihelion/aphelion limits, orbital periodicity, the planetary coordinate frame, feed validation UTC calendar export/escaping/folding, and finite, bounded nucleus geometry. Browser checks cover comet selection, time playback, nucleus view, live NASA refresh, search/distance filters, watchlist persistence, calendar download and narrow layouts.
+Eight native Node tests cover Julian dates, Kepler convergence at high eccentricity, perihelion/aphelion limits, orbital periodicity, the planetary coordinate frame, feed validation, UTC calendar export/escaping/folding, and finite, bounded nucleus geometry. Browser checks cover comet selection, time playback, nucleus view, live NASA refresh, search/distance filters, watchlist persistence, calendar download and narrow layouts.
 
 No actual phone hardware or calendar-app alarm delivery has been tested. WebGL and an internet connection are needed for 3D and live refresh respectively; the dated local data can be explored without NASA access.
