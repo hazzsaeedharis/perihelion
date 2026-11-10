@@ -1,0 +1,106 @@
+{
+  "source": "NASA NeoWs, retrieved 2026-11-10",
+  "element_count": 2,
+  "near_earth_objects": {
+    "2026-11-10": [
+      {
+        "absolute_magnitude_h": 24.01,
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-11-10",
+            "close_approach_date_full": "2026-Nov-10 19:31",
+            "epoch_date_close_approach": 1794339060000,
+            "miss_distance": {
+              "astronomical": "0.3584038619",
+              "kilometers": "53616454.340014153",
+              "lunar": "139.4191022791",
+              "miles": "33315719.8564271914"
+            },
+            "orbiting_body": "Earth",
+            "relative_velocity": {
+              "kilometers_per_hour": "47326.3905899707",
+              "kilometers_per_second": "13.1462196083",
+              "miles_per_hour": "29406.7786418626"
+            }
+          }
+        ],
+        "estimated_diameter": {
+          "feet": {
+            "estimated_diameter_max": 307.6274106738,
+            "estimated_diameter_min": 137.5751604018
+          },
+          "kilometers": {
+            "estimated_diameter_max": 0.0937648318,
+            "estimated_diameter_min": 0.0419329075
+          },
+          "meters": {
+            "estimated_diameter_max": 93.7648317729,
+            "estimated_diameter_min": 41.9329075486
+          },
+          "miles": {
+            "estimated_diameter_max": 0.0582627473,
+            "estimated_diameter_min": 0.0260558927
+          }
+        },
+        "id": "2499998",
+        "is_potentially_hazardous_asteroid": false,
+        "is_sentry_object": false,
+        "links": {
+          "self": "http://api.nasa.gov/neo/rest/v1/neo/2499998?api_key=DEMO_KEY"
+        },
+        "name": "499998 (2011 PT)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=2499998",
+        "neo_reference_id": "2499998"
+      },
+      {
+        "absolute_magnitude_h": 27.7,
+        "close_approach_data": [
+          {
+            "close_approach_date": "2026-11-10",
+            "close_approach_date_full": "2026-Nov-10 00:24",
+            "epoch_date_close_approach": 1794270240000,
+            "miss_distance": {
+              "astronomical": "0.0249087786",
+              "kilometers": "3726300.222861582",
+              "lunar": "9.6895148754",
+              "miles": "2315415.5912385516"
+            },
+            "orbiting_body": "Earth",
+            "relative_velocity": {
+              "kilometers_per_hour": "28711.3571628241",
+              "kilometers_per_second": "7.9753769897",
+              "miles_per_hour": "17840.1207882004"
+            }
+          }
+        ],
+        "estimated_diameter": {
+          "feet": {
+            "estimated_diameter_max": 56.2373735944,
+            "estimated_diameter_min": 25.1501180466
+          },
+          "kilometers": {
+            "estimated_diameter_max": 0.0171411509,
+            "estimated_diameter_min": 0.0076657557
+          },
+          "meters": {
+            "estimated_diameter_max": 17.1411509231,
+            "estimated_diameter_min": 7.6657557353
+          },
+          "miles": {
+            "estimated_diameter_max": 0.0106510141,
+            "estimated_diameter_min": 0.0047632783
+          }
+        },
+        "id": "3733933",
+        "is_potentially_hazardous_asteroid": false,
+        "is_sentry_object": false,
+        "links": {
+          "self": "http://api.nasa.gov/neo/rest/v1/neo/3733933?api_key=DEMO_KEY"
+        },
+        "name": "(2015 VH65)",
+        "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3733933",
+        "neo_reference_id": "3733933"
+      }
+    ]
+  }
+}
